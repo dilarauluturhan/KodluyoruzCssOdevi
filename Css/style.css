@@ -1,0 +1,27 @@
+body {
+    background-color: #E5E5CB;
+    color: #3C2A21;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Sofia Sans', sans-serif;
+    text-align: center;   
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
